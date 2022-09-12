@@ -540,7 +540,8 @@ footer{
     width: 25px;
     background-color: #000000;
 }
-/* -------------------for small screens----------------------- */
+
+/* mobileresponsive--------------------->>>>>> */
 
 @media screen and (max-width:1200px) {
 
@@ -754,7 +755,6 @@ display: none;    }
         text-align: center;
         }
         .register-left>p {
-            /* font-size: 16px; */
             width: 300px;
             text-align: center;
             margin: 0 auto;
